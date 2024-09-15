@@ -57,6 +57,6 @@ python main.py
 #### on the pictures below are shown the difference between time spent on the same task using asynchrony vs threading.
 
 <div>
-    <img src="readme/assets/asynchrony.png" style="width:300px; height:100px; object-fit:cover;" /> 
-    <img src="readme/assets/threading.png" style="width:300px; height:100px; object-fit:cover;" /> 
+        <img src="readme/assets/asynchrony.png" /> 
+        <img src="readme/assets/threading.png" /> 
 </div>
